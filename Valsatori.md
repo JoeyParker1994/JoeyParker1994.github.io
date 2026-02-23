@@ -27,7 +27,7 @@ A diferencia de las aplicaciones monolíticas, este proyecto implementa una sepa
 ### Resultado Final: Reportes de Alta Calidad
 ![Reporte Excel](./assets/img/Archivo_consolidado.png)
 
-![Certificación Final](assets/img/Auditoria_con_archivo_de_origen.png)
+![Certificación Final](.assets/img/Auditoria_con_archivo_de_origen.png)
 ---
 
 ## 🛠️ Ventajas de esta Arquitectura
