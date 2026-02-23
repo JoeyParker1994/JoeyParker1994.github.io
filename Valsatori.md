@@ -20,14 +20,15 @@ A diferencia de las aplicaciones monolíticas, este proyecto implementa una sepa
 ![Dashboard de Valsatori](./assets/img/Uni_Dashboard.png)
 
 ### Certificación de Integridad (Match Logic)
-![Match Logic en acción](.assets/img/Audit_&_Math_Logic.png)
+![Match Logic en acción](./assets/img/Audit_%26_Math_Logic.png)
 
 ---
 
 ### Resultado Final: Reportes de Alta Calidad
 ![Reporte Excel](./assets/img/Archivo_consolidado.png)
 
-![Certificación Final](.assets/img/Auditoria.png)
+![Certificación Final](./assets/img/Certificado)
+
 ---
 
 ## 🛠️ Ventajas de esta Arquitectura
@@ -35,12 +36,8 @@ A diferencia de las aplicaciones monolíticas, este proyecto implementa una sepa
 2. **Zero-Inference Auditing:** Al centralizar el procesamiento en FastAPI, se garantiza que los reportes se generen bajo un estándar único, eliminando riesgos de manipulación local.
 3. **Excel Gourmet:** Generación de archivos de salida con formato profesional, listos para presentaciones de nivel gerencial sin necesidad de edición manual.
 
-### Resultado Final: Reportes de Alta Calidad
-![Reporte Excel](./assets/img/Archivo_consolidado.png)
-*Visualización de datos unificados con formato corporativo.*
-
-![Certificación Final](.assets/img/Auditoria)
-*Resumen de integridad con estatus "PASSED" tras validar sumatorias y registros industriales.*
+### Auditoría y Cumplimiento
+*Visualización de datos unificados con formato corporativo y resumen de integridad con estatus "PASSED" tras validar registros industriales.*
 
 ---
 
