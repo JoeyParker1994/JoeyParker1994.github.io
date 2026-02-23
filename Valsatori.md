@@ -39,7 +39,7 @@ A diferencia de las aplicaciones monolíticas, este proyecto implementa una sepa
 ![Reporte Excel](./assets/img/Archivo_consolidado.png)
 *Visualización de datos unificados con formato corporativo.*
 
-![Certificación Final](./assets/img/certificacion.png)
+![Certificación Final](.assets/img/Auditoria)
 *Resumen de integridad con estatus "PASSED" tras validar sumatorias y registros industriales.*
 
 ---
