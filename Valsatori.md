@@ -20,7 +20,7 @@ A diferencia de las aplicaciones monolíticas, este proyecto implementa una sepa
 ![Dashboard de Valsatori](./assets/img/Uni_Dashboard.png)
 
 ### Certificación de Integridad (Match Logic)
-![Match Logic en acción](.assets/img/Auditoria)
+![Match Logic en acción](.assets/img/Audit_&_Math_Logic.png)
 
 ---
 
