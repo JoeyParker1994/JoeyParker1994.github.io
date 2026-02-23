@@ -17,13 +17,17 @@ A diferencia de las aplicaciones monolíticas, este proyecto implementa una sepa
 ## 📸 Visual Insights
 
 ### Uni-Dashboard: Centralización de Procesos
-![Dashboard de Valsatori](./assets/img/dashboard.png)
-*Interfaz capaz de procesar directorios completos de forma asíncrona y automatizada.*
+![Dashboard de Valsatori](./assets/img/Uni_Dashboard.png)
 
 ### Certificación de Integridad (Match Logic)
-![Match Logic en acción](./assets/img/match-logic.png)
-*Logs de auditoría en tiempo real mientras el motor remoto valida la consistencia de cada registro.*
+![Match Logic en acción](./assets/img/Audit_&_Math_Logic.png)
 
+---
+
+### Resultado Final: Reportes de Alta Calidad
+![Reporte Excel](./assets/img/Archivo_consolidado.png)
+
+![Certificación Final](./assets/img/Auditoria__con_archivo_de_origen.png)
 ---
 
 ## 🛠️ Ventajas de esta Arquitectura
