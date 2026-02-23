@@ -14,7 +14,7 @@ Bienvenido a mi espacio profesional. Me especializo en transformar datos en deci
 
 ## 🚀 Proyectos Destacados
 
-### 💎 [Valsatori BOM Studio](./VALSATORI)
+### 💎 [Valsatori BOM Studio](.Valsatori.md)
 **Enterprise Analytics Suite & Integrity Auditing.** Una solución industrial con arquitectura *Sidecar* para blindar la propiedad intelectual y garantizar la integridad de datos masivos.
 
 ### ⚖️ Legal Data Mining: Inteligencia Jurídica
