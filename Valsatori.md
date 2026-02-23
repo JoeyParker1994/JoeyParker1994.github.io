@@ -36,7 +36,7 @@ A diferencia de las aplicaciones monolíticas, este proyecto implementa una sepa
 3. **Excel Gourmet:** Generación de archivos de salida con formato profesional, listos para presentaciones de nivel gerencial sin necesidad de edición manual.
 
 ### Resultado Final: Reportes de Alta Calidad
-![Reporte Excel](./assets/img/excel-gourmet.png)
+![Reporte Excel](./assets/img/Archivo_consolidado.png)
 *Visualización de datos unificados con formato corporativo.*
 
 ![Certificación Final](./assets/img/certificacion.png)
